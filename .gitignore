@@ -1,0 +1,9 @@
+.settings
+.project
+.cache-main
+.cache-tests
+bin
+target
+.classpath
+.groovy
+.gradle
